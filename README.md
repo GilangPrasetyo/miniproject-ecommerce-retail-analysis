@@ -49,7 +49,7 @@ Analisis difokuskan pada data bulan **Desember 2019**, dengan tahapan sebagai be
 ### 1️⃣ Tren Harian Jumlah Pelanggan
 Melihat jumlah pelanggan unik (*unique customers*) yang bertransaksi setiap hari selama Desember 2019 untuk mengidentifikasi pola kunjungan/transaksi harian.
 
-![Daily Customers]([<img width="856" height="526" alt="image" src="https://github.com/user-attachments/assets/1cf049ea-d994-4357-8a19-b4b263e28eb8" />
+([<img width="856" height="526" alt="image" src="https://github.com/user-attachments/assets/1cf049ea-d994-4357-8a19-b4b263e28eb8" />
 ](https://github.com/GilangPrasetyo/miniproject-ecommerce-retail-analysis/blob/main/public/daily_number_of_customers.png))
 
 ### 2️⃣ Top 5 Brand Berdasarkan Quantity Terjual
