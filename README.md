@@ -58,7 +58,7 @@ Mengidentifikasi 5 brand dengan total kuantitas penjualan tertinggi, sebagai das
 ### 3️⃣ Tren Penjualan Harian per Brand (Top 5)
 Membandingkan tren kuantitas penjualan harian antar top 5 brand, termasuk anotasi pada titik yang menunjukkan adanya lonjakan penjualan signifikan.
 
-![Quantity per Brand](output/02_daily_quantity_per_brand.png)
+![Quantity per Brand]([output/02_daily_quantity_per_brand.png](https://github.com/GilangPrasetyo/miniproject-ecommerce-retail-analysis/blob/main/public/daily_sold_quantity.png))
 
 ### 4️⃣ Jumlah Produk Terjual per Brand
 Melihat seberapa banyak variasi produk (jumlah `product_id` unik) yang berhasil terjual dari masing-masing brand top 5.
