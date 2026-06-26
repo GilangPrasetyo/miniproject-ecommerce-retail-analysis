@@ -96,33 +96,11 @@ Jumlah pelanggan harian berfluktuasi antara **19–40 pelanggan per hari** sepan
 
 ---
 
-## 🚀 Cara Menjalankan
-
-1. Clone repository ini:
-   ```bash
-   git clone https://github.com/GilangPrasetyo/miniproject-ecommerce-retail-analysis.git
-   cd miniproject-ecommerce-retail-analysis
-   ```
-
-2. Install dependencies:
-   ```bash
-   pip install pandas matplotlib
-   ```
-
-3. Jalankan script:
-   ```bash
-   python retail_analysis.py
-   ```
-
-   Script akan menampilkan setiap grafik satu per satu dan menyimpannya ke folder `output/`.
-
----
-
 ## 📂 Struktur Folder
 
 ```
 .
-├── retail_analysis.py   # Script utama analisis
+├── MiniProject_G231210145.ipynb   # Script utama analisis
 ├── public/               # Hasil visualisasi (gambar untuk README)
 └── README.md
 ```
